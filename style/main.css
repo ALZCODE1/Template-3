@@ -183,7 +183,7 @@ a {
 
 /* *Dots Start */
 .dots {
-  background: url(/img/dots.png);
+  background: url(../img/dots.png);
   width: 204px;
   height: 186px;
   position: absolute;
@@ -1761,7 +1761,7 @@ header .mega-menu ul > li > a i {
   position: relative;
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background: url(/img/stats.jpg);
+  background: url(../img/stats.jpg);
   min-height: 300px;
 }
 
@@ -1869,7 +1869,7 @@ header .mega-menu ul > li > a i {
   align-items: center;
   position: relative;
   z-index: 1;
-  background: url(/img/discount-background1.jpg);
+  background: url(../img/discount-background1.jpg);
   animation: change-background 10s linear infinite;
   -webkit-animation: change-background 10s linear infinite;
 }
@@ -2207,10 +2207,10 @@ footer .foot i {
 @keyframes change-background {
   0%,
   100% {
-    background: url(/img/discount-background1.jpg);
+    background: url(../img/discount-background1.jpg);
   }
   50% {
-    background: url(/img/discount-background2.jpg);
+    background: url(../img/discount-background2.jpg);
   }
 }
 
