@@ -613,6 +613,11 @@ header .mega-menu ul > li > a i {
   color: var(--main-color);
   display: flex;
   justify-content: space-between;
+  transition: var(--trans-transition);
+  -webkit-transition: var(--trans-transition);
+  -moz-transition: var(--trans-transition);
+  -ms-transition: var(--trans-transition);
+  -o-transition: var(--trans-transition);
 }
 
 .articles .col .box .info a:hover {
