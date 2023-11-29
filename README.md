@@ -29,4 +29,4 @@ Agency App 3 is a testament to the evolution of web design skills, with a focus 
 
 ## Design
 
-The project design was from [Elzero web school](www.elzero.org)
+The project design was from [Elzero web school](https://elzero.org/)
